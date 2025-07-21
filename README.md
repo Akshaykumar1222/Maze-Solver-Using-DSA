@@ -22,6 +22,6 @@ Choose your preferred algorithm and view the path output in the console.
 
 ## Documentation & Demo Video
 
-- **[Project Report](documentation/maze.docx)**
-- **[Project Presentation](documentation/MAZE%20SOLVER.pptx)**
+- **[Project Report](Documentation/maze.docx)**
+- **[Project Presentation](Documentation/MAZE%20SOLVER.pptx)**
 - **[Demo Video](video_demo/mazesolverdemovideo.mp4)**
