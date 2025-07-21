@@ -23,3 +23,10 @@ Copy
 Edit
 Choose your preferred algorithm and view the path output in the console.
 
+## Documentation & Demo Video
+
+- **[Project Report](documentation/MazeSolver_Report.docx)**
+- **[Project Presentation](documentation/MazeSolver_Presentation.pptx)**
+- **[Demo Video](video_demo/maze_demo.mp4)**
+
+
