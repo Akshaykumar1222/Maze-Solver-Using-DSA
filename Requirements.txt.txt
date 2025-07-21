@@ -1,0 +1,2 @@
+Java JDK 8 or higher
+Any IDE (Eclipse, IntelliJ, or VS Code) or terminal
