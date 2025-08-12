@@ -63,3 +63,4 @@ It demonstrates pathfinding techniques and compares their performance on differe
 ## Requirements
 - Java JDK 11 or later
 - Any IDE or terminal that supports compiling and running Java code
+- vscode
